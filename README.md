@@ -3,4 +3,8 @@
 
 
 
-I feel like the code I wrote is a bit cute
+# Name
+Wu Yerong
+
+# major
+MIS
